@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+}
+
+#container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#dice {
+    text-align: center;
+}
+
+#dice img {
+    max-width: 100%;
+    max-height: 100%;
+}
